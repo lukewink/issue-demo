@@ -1,0 +1,5 @@
+.gradle/
+.metadata
+generated/
+bin/
+bin_test/
